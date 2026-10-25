@@ -1,0 +1,12 @@
+name: onnx
+version: 0.1.0
+description: |
+  ONNX Runtime bindings for Crystal. Loads libonnxruntime via dlopen at
+  runtime (no dev package / link-time dependency required) and exposes a
+  small high-level runtime: Onnx::Session, Onnx::Value, tensors.
+
+authors:
+  - oleg
+
+license: MIT
+crystal: ">= 1.10.0"

@@ -1,0 +1,11 @@
+/examples/assets/*.onnx
+/examples/assets/*.onnx.json
+/out.wav
+/bin/
+/lib/
+/shards.lock
+/ext/miniaudio/*.o
+/ext/miniaudio/*.obj
+/ext/miniaudio/*.a
+/ext/miniaudio/*.lib
+/ext/miniaudio/miniaudio_impl.c
